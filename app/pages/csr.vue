@@ -6,5 +6,6 @@
     <div>
         <h1>CSR Page Example</h1>
         <p>This page is client-side rendered (CSR).</p>
+        <pre>{{ data }}</pre>
     </div>
 </template>
