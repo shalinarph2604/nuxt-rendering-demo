@@ -6,6 +6,6 @@
     <div>
         <h1>SSR Page Example</h1>
         <p>Secara default, Nuxt 3 adalah SSR (Server Side Rendering).</p>
-        <p>Post data: {{ data }}</p>
+        <p>Isi data: {{ data.title }}</p>
     </div>
 </template>
